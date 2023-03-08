@@ -1,2 +1,2 @@
 #!/bin/bash
-rm
+rm *[!uppercase!] /tmp/u
