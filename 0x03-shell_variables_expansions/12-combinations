@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo {a..z}{a..z} | uniq --skip-chars=oo 
+=======
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v oo 
+>>>>>>> faaca2f0a2b168a3ac393c1c246f1748c3de8b88

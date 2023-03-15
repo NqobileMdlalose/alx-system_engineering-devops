@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printf "%x\n" $DECIMAL
+=======
+printf %x"\n" $DECIMAL
+>>>>>>> faaca2f0a2b168a3ac393c1c246f1748c3de8b88
